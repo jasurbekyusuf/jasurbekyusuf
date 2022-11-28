@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi ! I am Jasurbek 
+
+I am a Fullstack web developer( React.js and .NET ), I have more than 10 months of experience in frontend(React.Js, Redux, JavaScript, JQuery, BootStrap, CSS and Sass) 
+I am currently contributing to opensource projects by consolidating my knowledge in .net
+
+📫 How to reach me:
+https://www.linkedin.com/in/jasurbek-yusufov-15b227222/
 
 <!--
 **jasurbekyusuf/jasurbekyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
