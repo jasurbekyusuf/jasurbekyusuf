@@ -6,12 +6,12 @@
 
 ⚙️ My specialty : `.Net`, `Asp.net`, `React.js`	
 
-💻 My programming languages : `C#`, `JavaScript`
+💻 My programming languages : `C#`, `JavaScript`, `TypeScript`
 
-⚔️ Technogies and tools : `.Net`,`TypeScript` `Next.js` `Git`, `Docker`, `Sql server`
+⚔️ Technogies and tools : `.Net`, `Redux`, `Next.js`, `Git`, `Docker`, `Sql server`
 
 🌱 Learning all about Open Source
 
 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/jasurbek-yusufov-15b227222/) | [Telegram](https://t.me/JasurbekYusufov)
 
-⚡️ Fun fact: I'm a huge fan of Chess
+⚡️ Fun fact: I'm a huge fan of Football
