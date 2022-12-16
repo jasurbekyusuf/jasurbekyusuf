@@ -1,22 +1,17 @@
-### 👋 Hi ! I am Jasurbek 
+# 👋 Hi ! I am Jasurbek 
 
-I am a Fullstack web developer( React.js and .NET ), I have more than 10 months of experience in frontend(React.Js, Redux, JavaScript, JQuery, BootStrap, CSS and Sass) 
-I am currently contributing to opensource projects by consolidating my knowledge in .net
+### I'm a Software Engineer.
 
-📫 How to reach me:
-https://www.linkedin.com/in/jasurbek-yusufov-15b227222/
+#### BIO
 
-<!--
-**jasurbekyusuf/jasurbekyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ My specialty : `.Net`, `Asp.net`, `React.js`	
 
-Here are some ideas to get you started:
+💻 My programming languages : `C#`, `JavaScript`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚔️ Technogies and tools : `.Net`,`TypeScript` `Next.js` `Git`, `Docker`, `Sql server`
+
+🌱 Learning all about Open Source
+
+📫 Connect with me: [Linkedin](https://www.linkedin.com/in/jasurbek-yusufov-15b227222/) | [Telegram](https://t.me/JasurbekYusufov)
+
+⚡️ Fun fact: I'm a huge fan of Chess
