@@ -8,7 +8,7 @@
 
 💻 My programming languages : `C#`, `JavaScript`, `TypeScript`
 
-⚔️ Technogies and tools : `.Net`, `Redux`, `Next.js`, `Sass`, `Bootstrap` , `Git`, `Docker`, `Sql server`
+⚔️ Technogies and tools : `.Net`,`FluentAssertions`, `Moq`, `DeepCloner`, `xUnit`, `Redux`, `Next.js`, `Sass`, `Bootstrap` , `Git`, `Docker`, `Sql server`
 
 🌱 Learning all about Open Source
 
