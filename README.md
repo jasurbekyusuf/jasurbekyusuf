@@ -4,7 +4,7 @@
 
 #### BIO
 
-⚙️ My specialty : `.Net`, `Asp.net`, `React.js`	
+⚙️ My specialty : `.Net`, `Asp.net`, `React.js` ,	`Angular.js`
 
 💻 My programming languages : `C#`, `JavaScript`, `TypeScript`
 
